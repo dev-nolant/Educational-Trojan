@@ -1,6 +1,5 @@
 import sys
 import os
-import flask
 import urllib.request
 import subprocess
 from os import path
